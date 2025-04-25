@@ -2,6 +2,10 @@
 
 A React-based frontend application for tracking and analyzing marketing campaign performance.
 
+##Demo
+https://marketing-fe-seven.vercel.app/ (Frontend)
+https://web-production-1aa0d.up.railway.app/docs (Backend)
+
 ## Features
 
 - View all marketing campaigns
